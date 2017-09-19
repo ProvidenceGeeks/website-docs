@@ -13,10 +13,11 @@ Please make sure the following criteria are met before submitting your pull requ
 <!-- Include a link to the issue (e.g. #12) -->
 
 ## Summary of Changes
-<!-- Briefly summarize the changes made, lists are also appreciated
+<!-- Briefly summarize the changes made, lists are also appreciated.  Referencing the related issue as a
+"TO DO" checklist is also helpful for reviewers
 
-1. Thing I fixed
-1. Other thing I updated
-1. etc
+1. [x] Thing I fixed
+1. [x] Other thing I updated
+1. [x] Docs I updated
 
 -->
