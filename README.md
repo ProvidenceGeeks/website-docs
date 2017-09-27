@@ -11,7 +11,7 @@ There will be no code in this repo per se, but rather capture important informat
 All important documentation for the project can be found over at the [wiki](https://github.com/ProvidenceGeeks/website-docs/wiki).  This is what can be found there:
 
 * Contributing guidelines, development environments, FAQ, etc can be found here
-* Product overview of the website, available user features, and styleguide
+* [Product overview](https://github.com/ProvidenceGeeks/website-docs/wiki/Application-Design) of the website, user features, and styleguide
 * [Technical documentation](https://github.com/ProvidenceGeeks/website-docs/wiki/Technical-Architecture) relating to all parts of the system and how they interact
 * Documentation pertaining to the backend APIs as intended for client side consumption
 * Deployment and release procedure information for the project
