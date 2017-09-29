@@ -5,7 +5,12 @@ This repository is intended to be a top level README and documentation space for
 There will be no code in this repo per se, but rather capture important information about the project's timeline, technical documentation, product information, developer documentation, and more!
 
 ## Roadmap
-// TODO table of project (website) milestones / sprints
+In general, all significant work will be captured in a Project at the [organization level](https://github.com/orgs/ProvidenceGeeks/projects).
+
+| Project     |   Date   | Notes |
+| ------------- | -------- | ------ |
+| Infrastructure, Styleguide and Meetup.com Integration | 10/2017 | [Sprint 1](https://github.com/orgs/ProvidenceGeeks/projects/1) for the website project |
+| Events Calendar, Posts, and WordPress Integration | 11/2017 | [Sprint 2](https://github.com/orgs/ProvidenceGeeks/projects/2) for the website project |
 
 ## Documentation
 All important documentation for the project can be found over at the [wiki](https://github.com/ProvidenceGeeks/website-docs/wiki).  In this wiki, you'll find:
