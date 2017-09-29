@@ -19,8 +19,8 @@ All important documentation for the project can be found over at the [wiki](http
 ## Projects
 Current projects used in the development and deployment of the Providence Geeks website:
 
-- [API - Posts](https://github.com/ProvidenceGeeks/website-api-posts) - Backend RESTful API for consuming blog post data from
-- [API - Events](https://github.com/ProvidenceGeeks/website-api-events) - Backend RESTful API for consuming event data from
-- [Frontend](https://github.com/ProvidenceGeeks/website-frontend) - UI frontend application for the website project
-- [Lambda - Meetup](https://github.com/ProvidenceGeeks/website-lambda-meetup) - AWS Lambda for periodically retrieving data from the meetup.com API
-- [Lambda - WordPress](https://github.com/ProvidenceGeeks/website-lambda-wordpress) - AWS Lambda for periodically retrieving blog post data from the PVD Geeks WordPress REST API
+- [website-api-posts](https://github.com/ProvidenceGeeks/website-api-posts) - Backend RESTful API for consuming blog post data from
+- [website-api-events](https://github.com/ProvidenceGeeks/website-api-events) - Backend RESTful API for consuming event data from
+- [website-frontend](https://github.com/ProvidenceGeeks/website-frontend) - UI frontend application for the website project
+- [website-lambda-meetup](https://github.com/ProvidenceGeeks/website-lambda-meetup) - AWS Lambda for periodically retrieving data from the meetup.com API
+- [website-lambda-wordpress](https://github.com/ProvidenceGeeks/website-lambda-wordpress) - AWS Lambda for periodically retrieving blog post data from the PVD Geeks WordPress REST API
