@@ -18,7 +18,7 @@ All important documentation for the project can be found over at the [wiki](http
 * Contributing guidelines, development environments, FAQ, etc can be found [here](https://github.com/ProvidenceGeeks/website-docs/wiki/Onboarding-Guide)
 * Product overview of the website, available user features, and styleguide
 * [Technical documentation](https://github.com/ProvidenceGeeks/website-docs/wiki/Technical-Architecture) relating to all parts of the system and how they interact
-* Documentation pertaining to the backend APIs as intended for client side consumption
+* Documentation pertaining to the [backend APIs](https://github.com/ProvidenceGeeks/website-docs/wiki/API-Specification) as intended for client side consumption
 * Deployment and release procedure information for the project
 
 ## Projects
