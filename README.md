@@ -21,6 +21,11 @@ All important documentation for the project can be found over at the [wiki](http
 * Documentation pertaining to the [backend APIs](https://github.com/ProvidenceGeeks/website-docs/wiki/API-Specification) as intended for client side consumption
 * Deployment and release procedure information for the project
 
+## Environments
+URLs below are linked to the project staging and production environments:
+- [Stage](http://stage.pvdgeeks.org) - http://stage.pvdgeeks.org/
+- [Production](http://www.pvdgeeks.org) - http://www.pvdgeeks.org/
+
 ## Projects
 Current projects used in the development and deployment of the Providence Geeks website:
 
