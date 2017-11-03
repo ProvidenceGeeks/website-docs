@@ -16,10 +16,11 @@ In general, all significant work will be captured in a Project at the [organizat
 All important documentation for the project can be found over at the [wiki](https://github.com/ProvidenceGeeks/website-docs/wiki).  In this wiki, you'll find:
 
 * Contributing guidelines, development environments, FAQ, etc can be found [here](https://github.com/ProvidenceGeeks/website-docs/wiki/Onboarding-Guide)
-* Product overview of the website, available user features, and styleguide
+* [Product overview](https://github.com/ProvidenceGeeks/website-docs/wiki/Application-Design) of the website, user features, and styleguide
 * [Technical documentation](https://github.com/ProvidenceGeeks/website-docs/wiki/Technical-Architecture) relating to all parts of the system and how they interact
 * Documentation pertaining to the [backend APIs](https://github.com/ProvidenceGeeks/website-docs/wiki/API-Specification) as intended for client side consumption
-* Deployment and release procedure information for the project
+* Deployment and release procedure information for the project is found [here](https://github.com/ProvidenceGeeks/website-docs/wiki/Technical-Architecture)
+* Test expectations, guidelines, and procedures are documented [here](https://github.com/ProvidenceGeeks/website-docs/wiki/Testing-Guide)
 
 ## Environments
 URLs below are linked to the project staging and production environments:
