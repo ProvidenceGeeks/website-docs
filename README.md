@@ -19,7 +19,7 @@ All important documentation for the project can be found over at the [wiki](http
 * [Product overview](https://github.com/ProvidenceGeeks/website-docs/wiki/Application-Design) of the website, user features, and styleguide
 * [Technical documentation](https://github.com/ProvidenceGeeks/website-docs/wiki/Technical-Architecture) relating to all parts of the system and how they interact
 * Documentation pertaining to the [backend APIs](https://github.com/ProvidenceGeeks/website-docs/wiki/API-Specification) as intended for client side consumption
-* Deployment and release procedure information for the project is found [here](https://github.com/ProvidenceGeeks/website-docs/wiki/Technical-Architecture)
+* Deployment and release procedure information for the project is found [here](https://github.com/ProvidenceGeeks/website-docs/wiki/Release-Management)
 * Test expectations, guidelines, and procedures are documented [here](https://github.com/ProvidenceGeeks/website-docs/wiki/Testing-Guide)
 
 ## Environments
